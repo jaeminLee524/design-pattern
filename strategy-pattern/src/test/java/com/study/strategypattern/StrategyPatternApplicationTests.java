@@ -1,10 +1,10 @@
-package com.study.degisnpatternstrategypattern;
+package com.study.strategypattern;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class DegisnPatternStrategyPatternApplicationTests {
+class StrategyPatternApplicationTests {
 
     @Test
     void contextLoads() {

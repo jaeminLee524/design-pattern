@@ -1,4 +1,4 @@
-package com.study.degisnpatternstrategypattern.coffee;
+package com.study.strategypattern.coffee;
 
 public class CoffeeLatteStrategy implements CoffeeStrategy {
 

@@ -1,4 +1,4 @@
-package com.study.degisnpatternstrategypattern.coffee;
+package com.study.strategypattern.coffee;
 
 public interface CoffeeStrategy {
 

@@ -1,13 +1,13 @@
-package com.study.degisnpatternstrategypattern;
+package com.study.strategypattern;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class DegisnPatternStrategyPatternApplication {
+public class StrategyPatternApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(DegisnPatternStrategyPatternApplication.class, args);
+        SpringApplication.run(StrategyPatternApplication.class, args);
     }
 
 }
