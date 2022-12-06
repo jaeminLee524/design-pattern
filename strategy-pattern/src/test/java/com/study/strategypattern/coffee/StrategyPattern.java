@@ -4,6 +4,7 @@ import org.assertj.core.api.Assertions;
 import org.junit.jupiter.api.Test;
 
 class StrategyPattern {
+
     private static final String AMERICANO = "아메리카노";
     private static final String LATTE = "카페라떼";
 
