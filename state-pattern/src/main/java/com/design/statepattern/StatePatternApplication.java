@@ -1,5 +1,7 @@
 package com.design.statepattern;
 
+import com.design.statepattern.state.Person;
+import com.design.statepattern.state.SoSo;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
