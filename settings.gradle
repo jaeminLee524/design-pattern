@@ -1,1 +1,5 @@
-rootProject.name = 'DegisnPattern'
+rootProject.name = 'strategy-pattern2'
+include 'state-pattern'
+include 'strategy-pattern'
+include 'strategy-pattern2'
+include 'template-method-pattern'
