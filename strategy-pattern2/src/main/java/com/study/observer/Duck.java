@@ -1,7 +1,7 @@
-package com.study.strategypattern2;
+package com.study.observer;
 
-import com.study.strategypattern2.capsulation.FlyBehavior;
-import com.study.strategypattern2.capsulation.QuackBehavior;
+import com.study.observer.capsulation.FlyBehavior;
+import com.study.observer.capsulation.QuackBehavior;
 
 public abstract class Duck {
 

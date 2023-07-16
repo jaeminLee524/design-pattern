@@ -1,9 +1,9 @@
-package com.study.strategypattern2;
+package com.study.observer;
 
-import com.study.strategypattern2.capsulation.FlyNoWay;
-import com.study.strategypattern2.capsulation.FlyWithWings;
-import com.study.strategypattern2.capsulation.MuteQuack;
-import com.study.strategypattern2.capsulation.Quack;
+import com.study.observer.capsulation.FlyNoWay;
+import com.study.observer.capsulation.FlyWithWings;
+import com.study.observer.capsulation.MuteQuack;
+import com.study.observer.capsulation.Quack;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
